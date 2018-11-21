@@ -1,0 +1,9 @@
+c:\users\cscoch03\documents\visual studio 2015\Projects\Prog4\Prog4\bin\Debug\Prog4.exe.config
+C:\Users\cscoch03\Documents\Visual Studio 2015\Projects\Prog4\Prog4\bin\Debug\Prog4.exe
+C:\Users\cscoch03\Documents\Visual Studio 2015\Projects\Prog4\Prog4\bin\Debug\Prog4.pdb
+C:\Users\cscoch03\Documents\Visual Studio 2015\Projects\Prog4\Prog4\obj\Debug\Prog4.csprojResolveAssemblyReference.cache
+C:\Users\cscoch03\Documents\Visual Studio 2015\Projects\Prog4\Prog4\obj\Debug\Prog4.Form1.resources
+C:\Users\cscoch03\Documents\Visual Studio 2015\Projects\Prog4\Prog4\obj\Debug\Prog4.Properties.Resources.resources
+C:\Users\cscoch03\Documents\Visual Studio 2015\Projects\Prog4\Prog4\obj\Debug\Prog4.csproj.GenerateResource.Cache
+C:\Users\cscoch03\Documents\Visual Studio 2015\Projects\Prog4\Prog4\obj\Debug\Prog4.exe
+C:\Users\cscoch03\Documents\Visual Studio 2015\Projects\Prog4\Prog4\obj\Debug\Prog4.pdb

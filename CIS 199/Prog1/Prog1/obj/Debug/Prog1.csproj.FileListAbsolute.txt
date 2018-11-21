@@ -1,0 +1,10 @@
+c:\users\cscoch03\documents\visual studio 2015\Projects\Prog1\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\cscoch03\Desktop\Prog1\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\cscoch03\Desktop\Prog1\Prog1\bin\Debug\Prog1.exe
+C:\Users\cscoch03\Desktop\Prog1\Prog1\bin\Debug\Prog1.pdb
+C:\Users\cscoch03\Desktop\Prog1\Prog1\obj\Debug\Prog1.csprojResolveAssemblyReference.cache
+C:\Users\cscoch03\Desktop\Prog1\Prog1\obj\Debug\Prog1.Prog1.resources
+C:\Users\cscoch03\Desktop\Prog1\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+C:\Users\cscoch03\Desktop\Prog1\Prog1\obj\Debug\Prog1.csproj.GenerateResource.Cache
+C:\Users\cscoch03\Desktop\Prog1\Prog1\obj\Debug\Prog1.exe
+C:\Users\cscoch03\Desktop\Prog1\Prog1\obj\Debug\Prog1.pdb
